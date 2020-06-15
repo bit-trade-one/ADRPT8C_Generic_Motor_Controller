@@ -7,6 +7,8 @@
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/adrptb8c/)!
 
+## [回路図](https://github.com/bit-trade-one/ADRPT8C_Generic_Motor_Controller/blob/master/Schematics/raspi-bench_v11p_schematics.pdf)
+
 ## 製品仕様
 【汎用入出力】デジタル入出力6ch ラズベリーパイのGPIO 入出力範囲：0～3.3V
 ・アナログ入力　6ch、12bit 入力範囲：0～3.3V  ・アナログ入力　2ch、12bit 入力範囲：0～6.6V
