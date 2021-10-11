@@ -7,7 +7,7 @@
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/adrptb8c/)!
 
-## 実験ページ（ソフトウェア等もこちらで公開中）
+## 実験ページ
 [[ハードウェア編]](https://bit-trade-one.co.jp/blog/20170913/)  
 [[ソフトウェア編]](https://bit-trade-one.co.jp/blog/2017091301/)  
 [[NodeRed編]](https://bit-trade-one.co.jp/blog/2017091903/)  
