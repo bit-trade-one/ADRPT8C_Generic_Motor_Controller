@@ -11,6 +11,8 @@
 [[ハードウェア編]](https://bit-trade-one.co.jp/blog/20170913/)  
 [[ソフトウェア編]](https://bit-trade-one.co.jp/blog/2017091301/)  
 [[NodeRed編]](https://bit-trade-one.co.jp/blog/2017091903/)  
+[[カムロボット編]](https://bit-trade-one.co.jp/blog/20171010/)  
+
 
 ## [回路図](https://github.com/bit-trade-one/ADRPT8C_Generic_Motor_Controller/blob/master/Schematics/raspi-bench_v11p_schematics.pdf)
 
