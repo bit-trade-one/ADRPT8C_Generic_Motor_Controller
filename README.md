@@ -14,7 +14,9 @@
 [[カムロボット編]](https://bit-trade-one.co.jp/blog/20171010/)  
 
 
-## [回路図](https://github.com/bit-trade-one/ADRPT8C_Generic_Motor_Controller/blob/master/Schematics/raspi-bench_v11p_schematics.pdf)
+## 回路
+- [回路図](https://github.com/bit-trade-one/ADRPT8C_Generic_Motor_Controller/blob/master/Schematics/raspi-bench_v11p_schematics.pdf)
+- [ジャンパーピン簡易説明](https://github.com/bit-trade-one/ADRPT8C_Generic_Motor_Controller/blob/master/Schematics/%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%91%E3%83%BC%E3%83%94%E3%83%B3%E8%AA%AC%E6%98%8E.png)
 
 ## 製品仕様
 【汎用入出力】デジタル入出力6ch ラズベリーパイのGPIO 入出力範囲：0～3.3V  
